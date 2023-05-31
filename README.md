@@ -2,14 +2,15 @@
 
 #### Page -> https://www.techgig.com/codegladiators/github-copilot-hackathon
 
-----
+---
+
 ### Problem Statement
 
 **Python - Weather Forecasting Tool**
 
 Create a command-line tool that accepts a city's name and returns the current weather forecast. Leverage OpenWeatherMap API to fetch weather data and parse it using Python. Your solution should demonstrate how GitHub Copilot can help you with API usage, data parsing, and error handling.
 
-----
+---
 
 **steps to follow for basic setup**
 
@@ -18,11 +19,16 @@ Create a command-line tool that accepts a city's name and returns the current we
 3. https://docs.github.com/en/copilot/getting-started-with-github-copilot?tool=vscode
 4. Pull the repository and create .env file
 5. Create OPEN_WEATHER_API_KEY in .env.
-6. Install ```pip install python-dotenv```
+6. Install `pip install python-dotenv`
 7. Go to https://home.openweathermap.org and opt in for free subscription.
 8. Take your api key and store it in OPEN_WEATHER_API_KEY.
+9. Install Typer to create CLI application
 
-----
+```
+pip install "typer[all]"
+```
+
+---
 
 **Resources**
 
@@ -32,8 +38,9 @@ Create a command-line tool that accepts a city's name and returns the current we
 4. https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo
 5. https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository
 6. https://linuxhint.com/git-remote-repository-not-found-fixed/#:~:text=the%20below%20section.-,How%20to%20Resolve%20the%20%E2%80%9Cremote%3A%20Repository%20not%20found%E2%80%9D%20Error,clone%20into%20a%20local%20repository.
+7. https://typer.tiangolo.com/
 
-----
+---
 
 **How Github Copiolate help me?**
 
@@ -41,4 +48,4 @@ Create a command-line tool that accepts a city's name and returns the current we
 2. Autocompleting Code.
 3. Giving Answer of questions.
 
-----
+---
