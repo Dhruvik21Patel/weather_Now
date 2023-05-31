@@ -23,10 +23,6 @@ Create a command-line tool that accepts a city's name and returns the current we
 7. Go to https://home.openweathermap.org and opt in for free subscription.
 8. Take your api key and store it in OPEN_WEATHER_API_KEY.
 
-```
-pip install "typer[all]"
-```
-
 ---
 
 **Resources**
