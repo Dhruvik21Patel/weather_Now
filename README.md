@@ -22,7 +22,6 @@ Create a command-line tool that accepts a city's name and returns the current we
 6. Install `pip install python-dotenv`
 7. Go to https://home.openweathermap.org and opt in for free subscription.
 8. Take your api key and store it in OPEN_WEATHER_API_KEY.
-9. Install Typer to create CLI application
 
 ```
 pip install "typer[all]"
