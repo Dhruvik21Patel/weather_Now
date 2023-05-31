@@ -33,7 +33,6 @@ Create a command-line tool that accepts a city's name and returns the current we
 4. https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo
 5. https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository
 6. https://linuxhint.com/git-remote-repository-not-found-fixed/#:~:text=the%20below%20section.-,How%20to%20Resolve%20the%20%E2%80%9Cremote%3A%20Repository%20not%20found%E2%80%9D%20Error,clone%20into%20a%20local%20repository.
-7. https://typer.tiangolo.com/
 
 ---
 
